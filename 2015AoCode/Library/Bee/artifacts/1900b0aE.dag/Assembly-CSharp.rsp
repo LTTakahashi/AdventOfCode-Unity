@@ -356,6 +356,8 @@
 "Assets/Scripts/Day001/InputText.cs"
 "Assets/Scripts/Day001/OutputText.cs"
 "Assets/Scripts/Day002/CubeDimension.cs"
+"Assets/Scripts/Day003/DeliverySphere.cs"
+"Assets/Scripts/Day003/GridQuad.cs"
 "Assets/Scripts/Day003/Map.cs"
 "Assets/Scripts/Day003/Node.cs"
 -langversion:9.0
